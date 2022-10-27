@@ -1,0 +1,23 @@
+{
+  "name": "my-code-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/anirban1592/myfirstnode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anirban1592/myfirstnode/issues"
+  },
+  "homepage": "https://github.com/anirban1592/myfirstnode#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
