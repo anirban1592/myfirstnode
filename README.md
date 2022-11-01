@@ -27,6 +27,7 @@ Step 7 - Now since port 80 of your ec2 instance is open, it is listening from th
 Step 8 - inside ec2 instance edit the ngnix.conf file using command : sudo nano /etc/nginx/nginx.conf
 
 Step 9 - Add 
+         
          server {
                      listen      80;
                      server_name <your ipv4 address on aws>;
